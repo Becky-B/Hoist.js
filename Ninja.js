@@ -13,7 +13,7 @@ class Ninja{
     }
     drinkSake(){
         this.strength += 10;
-        console.log(this.stregnth)
+        console.log(this.strength)
     }
 }
 const ninja1 = new Ninja("Hyabusa");
