@@ -36,7 +36,7 @@ console.log(password);
 console.log(hashedPassword);
 
 // console.log(password); -->12345
-//  console.loge(hashedPassword);-->undefined
+// console.loge(hashedPassword);-->undefined
 
 // #4
 const numbers = [8, 2, 3, 5, 6, 1, 67, 12, 2];
